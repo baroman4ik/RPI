@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RPI/static/css/main.2b95a629.css",
+    "main.js": "/RPI/static/js/main.0874409c.js",
+    "index.html": "/RPI/index.html",
+    "main.2b95a629.css.map": "/RPI/static/css/main.2b95a629.css.map",
+    "main.0874409c.js.map": "/RPI/static/js/main.0874409c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b95a629.css",
+    "static/js/main.0874409c.js"
+  ]
+}
